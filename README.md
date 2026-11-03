@@ -154,6 +154,10 @@ Full guide: **[INSTALL.md](INSTALL.md)**.
 5. Check **Settings → Scheduler**. Recurring invoices, email-to-ticket, SLA checks and the
    other periodic jobs run from this built-in scheduler; no crontab is needed.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/ClientSt0r/)
+
 ## Updating and backups
 
 **Update** from **Admin → System → System Updates** in the web UI: *Check for Updates*, then *Apply*.
